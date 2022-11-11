@@ -1,0 +1,12 @@
+{
+  "name": "React-project",
+  "version": "0.1",
+  "description": "I exist therefore i am.",
+  "main": "index.js",
+  "repository": "git@github.com:dmunozvenegas-crypto/React-project.git",
+  "author": "Yarn Contributor",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "rsuite": "^5.22.0"
+  }
+}

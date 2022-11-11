@@ -1,0 +1,15 @@
+/* The following code will belong to the navbar component */
+*{
+    border:1px solid red;
+}
+.navBar{
+    display:flex;
+    justify-content: center;
+}
+
+.ulNav{
+    list-style-type: none;
+    display:flex;
+    flex-grow: 1;
+    flex:1,0,10px;
+}
